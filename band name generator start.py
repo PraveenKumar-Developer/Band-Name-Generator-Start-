@@ -1,0 +1,1 @@
+print("your new band name coulb be " + input("the city that you grew up\n") + " " + input("the name of your pet \n"))
